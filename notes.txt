@@ -1,0 +1,27 @@
+
+
+# for key, value in wo._wo.items():
+#     print(f"{key}: {value}")
+# print("\n")
+
+# for key, value in wo._customer.items():
+#     print(f"{key}: {value}")
+# print("\n")
+
+# for b in wo._bom_list:
+
+#     for key, value in b.items():
+#         if key == 'KitComponents':
+#             print("\t" + f"{key}:")
+#             for i in value:
+#                 for k, v in i.items():
+#                     print("\t\t" + f"{k}: {v}")
+#                 print("\n")
+#         else:
+#             print("\t" + f"{key}: {value}")
+#     print("\n")
+
+
+
+
+
