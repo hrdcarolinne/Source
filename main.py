@@ -76,6 +76,8 @@ def main():
 
 
     printColor('\n\t\tWelcome to HRD WO Pricing!', Fore.WHITE + Back.LIGHTCYAN_EX + Style.DIM)
+    printColor('\n\t\t\t ~ a contribution to the future of CLM ~', Fore.WHITE + Back.LIGHTCYAN_EX + Style.DIM)
+
 
     startLoop = testConnections()
 
